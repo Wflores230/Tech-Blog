@@ -1,6 +1,7 @@
 # Tech Blog
 
-## Links
+## Link
+https://hidden-dawn-28197.herokuapp.com/
 
 ## Description
 This is a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. This app uses Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
@@ -30,3 +31,5 @@ To install this for local testing:
 ```
 
 ## Screenshots
+![Screenshot (89)](https://user-images.githubusercontent.com/76802722/117910479-fedc4e00-b2a9-11eb-9dea-1f8656a8b047.png)
+![Screenshot (90)](https://user-images.githubusercontent.com/76802722/117910484-013ea800-b2aa-11eb-9880-97151dab27ca.png)
